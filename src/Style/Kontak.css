@@ -1,0 +1,11 @@
+#kontak_bg {
+  background-image: url("https://mhtlegacydogtraining.files.wordpress.com/2018/05/pexels-photo-1020315.jpeg");
+  height: 730px;
+}
+
+.kontak {
+  color: black;
+  text-align: center;
+  margin-top: 208px;
+  background-color: white;
+}
